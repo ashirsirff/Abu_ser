@@ -36,7 +36,7 @@
 </p>
 
 
-<a href="https://github.com/Afx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/ashirsirff/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
 <a href="https://replit.com/@Afx-Abu/Abu-Ser-Qr?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
@@ -49,7 +49,7 @@
 4. Click [FORK](https://github.com/Afx-Abu/Abu_ser/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abu_ser
+https://heroku.com/deploy?template=https://github.com/ashirsirff/Abu_ser
 ``` 
 6. Now change Afx-Abu with your github username and click ENJOY<br>
    <br>
